@@ -1,0 +1,34 @@
+[
+    {
+      "name": {
+        "common": "Afghanistan",
+        "official": "Islamic Republic of Afghanistan",
+        "nativeName": {
+          "pus": {
+            "official": "جمهوری اسلامی افغانستان",
+            "common": "افغانستان"
+          }
+        }
+      },
+      "capital": [
+        "Kabul"
+      ]
+    },
+    {
+      "name": {
+        "common": "Åland Islands",
+        "official": "Åland Islands",
+        "nativeName": {
+          "swe": {
+            "official": "Landskapet Åland",
+            "common": "Åland"
+          }
+        }
+      },
+      "capital": [
+        "Mariehamn"
+      ]
+    },
+    // more countries and capitals
+  ]
+  
